@@ -2,7 +2,7 @@
 
 NLP and Machine Learning on travel.statsexchange.com data
 
-In this project, I do NLP and machine learning on post data from stackexchange's travel subdomain.
+In this project, I do some NLP and machine learning on post data from stackexchange's travel subdomain.
 
 Notes on the data:
 The data is again compressed into the .7z file format to save space. There are 6 .csv files and one readme file that contains some information on the fields.
