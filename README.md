@@ -1,10 +1,6 @@
 # NLP-n-ML
 
-<<<<<<< HEAD
 Will be using NLP and Machine Learning on travel.statsexchange.com data
-=======
-In this project I will be using NLP and Machine Learning on travel.statsexchange.com data
->>>>>>> fb7c5b5e6af05e86fb740046704d4705403bd459
 
 In this project, there is NLP and machine learning on post data from stackexchange's travel subdomain.
 
