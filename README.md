@@ -2,7 +2,7 @@
 
 We will be using NLP and Machine Learning on travel.statsexchange.com data
 
-We use  NLP and machine learning on post data from stackexchange's travel subdomain.
+use  NLP and machine learning on post data from stackexchange's travel subdomain.
 
 Notes on the data:
 The data is compressed into the .7z file format to save space. There are 6 .csv files and one readme file that contains some information on the fields.
