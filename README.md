@@ -1,6 +1,6 @@
 # NLP-n-ML
 
-We will be using NLP and Machine Learning on travel.statsexchange.com data
+will be using NLP and Machine Learning on travel.statsexchange.com data
 
 use  NLP and machine learning on post data from stackexchange's travel subdomain.
 
